@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bdf228ec-7799-4e71-8c79-1bcd4b5154d7" name="Changes" comment="datos docker" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Jano &lt;alejandrorv72@hotmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jano170795&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jano170795/roxia_app.git&quot;,
+    &quot;accountId&quot;: &quot;80f3d1eb-6b9d-4b12-ad32-dd7aa5485bae&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3B0CpbNiA44drMEFUN6fw7Mi7GC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.app_roxia [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.roxia [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.roxia [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.roxia [install].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.MitoBooksApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;Spring Boot.RoxiaApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PYS/java/PRC/roxia/src/main/resources&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.roxia.roxia.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PYS\java\PRC\roxia\src\main\resources" />
+      <recent name="D:\PYS\java\PRC\roxia\src\main\java\com\roxia\roxia" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RoxiaApplication">
+    <configuration name="MitoBooksApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="mito-books" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.prueba1.mitobooks.MitoBooksApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoxiaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <envs>
+        <env name="APP_NAME" value="app_rxpr" />
+        <env name="DB_PASSWORD" value="Caramel0c0njam0n.1716" />
+        <env name="DB_URL" value="jdbc:mysql://localhost:3306/Roxia?allowPublicKeyRetrieval=true&amp;useSSL=false&amp;serverTimezone=UTC" />
+        <env name="DB_USER_NAME" value="root" />
+        <env name="DOC_PORT" value="8082" />
+        <env name="PORT_API" value="9595" />
+      </envs>
+      <module name="roxia" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.roxia.roxia.RoxiaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.MitoBooksApplication" />
+      <item itemvalue="Spring Boot.RoxiaApplication" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdf228ec-7799-4e71-8c79-1bcd4b5154d7" name="Changes" comment="" />
+      <created>1773616790039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773616790039</updated>
+      <workItem from="1773616796286" duration="9245000" />
+      <workItem from="1774131390104" duration="11955000" />
+      <workItem from="1774639138348" duration="5000" />
+    </task>
+    <task id="LOCAL-00001" summary="Inicial">
+      <option name="closed" value="true" />
+      <created>1773625949102</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773625949102</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Inicial">
+      <option name="closed" value="true" />
+      <created>1774131430933</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774131430933</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Inicialx2">
+      <option name="closed" value="true" />
+      <created>1774131496711</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774131496711</updated>
+    </task>
+    <task id="LOCAL-00004" summary="datos docker">
+      <option name="closed" value="true" />
+      <created>1774192773602</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1774192773602</updated>
+    </task>
+    <task id="LOCAL-00005" summary="datos docker">
+      <option name="closed" value="true" />
+      <created>1774192828711</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1774192828711</updated>
+    </task>
+    <task id="LOCAL-00006" summary="datos docker">
+      <option name="closed" value="true" />
+      <created>1774192859255</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1774192859255</updated>
+    </task>
+    <task id="LOCAL-00007" summary="datos docker">
+      <option name="closed" value="true" />
+      <created>1774193098676</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1774193098676</updated>
+    </task>
+    <task id="LOCAL-00008" summary="datos docker">
+      <option name="closed" value="true" />
+      <created>1774193250848</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1774193250848</updated>
+    </task>
+    <task id="LOCAL-00009" summary="datos docker">
+      <option name="closed" value="true" />
+      <created>1774193313391</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1774193313391</updated>
+    </task>
+    <task id="LOCAL-00010" summary="datos docker">
+      <option name="closed" value="true" />
+      <created>1774193344062</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1774193344062</updated>
+    </task>
+    <task id="LOCAL-00011" summary="datos docker">
+      <option name="closed" value="true" />
+      <created>1774193637365</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1774193637365</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inicial" />
+    <MESSAGE value="Inicialx2" />
+    <MESSAGE value="datos docker" />
+    <option name="LAST_COMMIT_MESSAGE" value="datos docker" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../mito-books/src/main/java/com/prueba1/mitobooks/controller/BookController.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../mito-books/src/main/java/com/prueba1/mitobooks/service/impl/BookServiceImpl.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="   @id&#10;    @&#10;}" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

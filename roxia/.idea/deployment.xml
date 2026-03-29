@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="https://github.com/jano170795/roxia_app.git" uploadOnCheckin="4ef190c3-bcb3-4bd1-9ebf-47dc65438a7f" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="https://github.com/jano170795/roxia_app.git">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="https://github.com/jano170795/roxia_app.git" />
+  </component>
+</project>
