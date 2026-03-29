@@ -1,0 +1,23 @@
+# Compilados y empaquetados
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de configuración de IDEs
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+bin/
+.nb-gradle/
+
+# Logs y temporales
+*.log
+temp/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
