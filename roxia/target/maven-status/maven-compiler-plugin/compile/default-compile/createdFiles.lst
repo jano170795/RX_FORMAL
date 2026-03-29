@@ -1,7 +1,0 @@
-com\roxia\roxia\model\ItemRxId.class
-com\roxia\roxia\model\ItemRx.class
-com\roxia\roxia\service\impl\ItemServiceImpl.class
-com\roxia\roxia\controller\ItemController.class
-com\roxia\roxia\repository\ItemRepo.class
-com\roxia\roxia\RoxiaApplication.class
-com\roxia\roxia\service\ItemService.class
