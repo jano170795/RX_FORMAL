@@ -1,0 +1,27 @@
+services:
+  app_rxpr:
+    build: roxia
+    mem_limit: 512m
+    ports:
+      - "8080:8080"
+    environment:
+      DB_URL: jdbc:mysql://roxia_app:3306/roxia?createDatabaseIfNotExist=true&serverTimezone=UTC
+      DB_USER_NAME: root
+      DB_PASSWORD: Caramel0c0njam0n.1716
+    restart: always
+    depends_on:
+      roxia_app:
+          condition: service_healthy
+  roxia_app:
+    image: mysql:9.5.0
+    ports:
+      - "3307:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: Caramel0c0njam0n.1716
+      MYSQL_PASSWORD: Caramel0c0njam0n.1716
+      MYSQL_DATABASE: roxia
+    restart: always
+    healthcheck:
+      test: ["CMD", "mysqladmin" ,"ping", "-h", "localhost"]
+      timeout: 10s
+      retries: 10
