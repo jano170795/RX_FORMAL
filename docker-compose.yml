@@ -13,7 +13,7 @@ services:
       roxia_app:
           condition: service_healthy
   roxia_app:
-    image: mysql:9.5.0
+    image: mysql:8.4
     ports:
       - "3307:3306"
     environment:
